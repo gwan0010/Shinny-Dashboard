@@ -1,0 +1,923 @@
+Country,code,Year,Method,Value
+Afghanistan,AFG,2015,Kmean,4
+Albania,ALB,2015,Kmean,1
+Algeria,DZA,2015,Kmean,2
+Angola,AGO,2015,Kmean,4
+Argentina,ARG,2015,Kmean,2
+Armenia,ARM,2015,Kmean,4
+Australia,AUS,2015,Kmean,5
+Austria,AUT,2015,Kmean,5
+Azerbaijan,AZE,2015,Kmean,1
+Bahrain,BHR,2015,Kmean,2
+Bangladesh,BGD,2015,Kmean,3
+Belarus,BLR,2015,Kmean,1
+Belgium,BEL,2015,Kmean,5
+Belize,BLZ,2015,Kmean,2
+Benin,BEN,2015,Kmean,4
+Bhutan,BTN,2015,Kmean,1
+Bolivia,BOL,2015,Kmean,2
+Bosnia and Herzegovina,BIH,2015,Kmean,1
+Botswana,BWA,2015,Kmean,4
+Brazil,BRA,2015,Kmean,2
+Bulgaria,BGR,2015,Kmean,1
+Burkina Faso,BFA,2015,Kmean,4
+Burundi,BDI,2015,Kmean,4
+Cambodia,KHM,2015,Kmean,4
+Cameroon,CMR,2015,Kmean,3
+Canada,CAN,2015,Kmean,5
+Central African Republic,CAF,2015,Kmean,4
+Chad,TCD,2015,Kmean,4
+Chile,CHL,2015,Kmean,2
+China,CHN,2015,Kmean,1
+Colombia,COL,2015,Kmean,2
+Congo (Brazzaville),COD,2015,Kmean,4
+Congo (Kinshasa),COG,2015,Kmean,3
+Costa Rica,CRI,2015,Kmean,5
+Croatia,HRV,2015,Kmean,1
+Cyprus,CYP,2015,Kmean,1
+Czech Republic,CZE,2015,Kmean,2
+Denmark,DNK,2015,Kmean,5
+Dominican Republic,DOM,2015,Kmean,1
+Ecuador,ECU,2015,Kmean,2
+Egypt,EGY,2015,Kmean,1
+El Salvador,SLV,2015,Kmean,2
+Estonia,EST,2015,Kmean,1
+Ethiopia,ETH,2015,Kmean,3
+Finland,FIN,2015,Kmean,5
+France,FRA,2015,Kmean,2
+Gabon,GAB,2015,Kmean,1
+Georgia,GEO,2015,Kmean,4
+Germany,DEU,2015,Kmean,5
+Ghana,GHA,2015,Kmean,4
+Greece,GRC,2015,Kmean,1
+Guatemala,GTM,2015,Kmean,2
+Guinea,GIN,2015,Kmean,4
+Haiti,HTI,2015,Kmean,4
+Honduras,HND,2015,Kmean,3
+Hong Kong,HKG,2015,Kmean,1
+Hungary,HUN,2015,Kmean,1
+Iceland,ISL,2015,Kmean,5
+India,IND,2015,Kmean,4
+Indonesia,IDN,2015,Kmean,1
+Iran,IRN,2015,Kmean,1
+Iraq,IRQ,2015,Kmean,1
+Ireland,IRL,2015,Kmean,5
+Israel,ISR,2015,Kmean,5
+Italy,ITA,2015,Kmean,2
+Ivory Coast,NA,2015,Kmean,4
+Jamaica,JAM,2015,Kmean,1
+Japan,JPN,2015,Kmean,1
+Jordan,JOR,2015,Kmean,1
+Kazakhstan,KAZ,2015,Kmean,2
+Kenya,KEN,2015,Kmean,3
+Kosovo,KSV,2015,Kmean,1
+Kuwait,KWT,2015,Kmean,2
+Kyrgyzstan,KGZ,2015,Kmean,1
+Latvia,LVA,2015,Kmean,2
+Lebanon,LBN,2015,Kmean,1
+Lesotho,LSO,2015,Kmean,4
+Liberia,LBR,2015,Kmean,4
+Libya,LBY,2015,Kmean,1
+Lithuania,LTU,2015,Kmean,2
+Luxembourg,LUX,2015,Kmean,5
+Macedonia,MKD,2015,Kmean,1
+Madagascar,MDG,2015,Kmean,4
+Malawi,MWI,2015,Kmean,4
+Malaysia,MYS,2015,Kmean,2
+Mali,MLI,2015,Kmean,4
+Malta,MLT,2015,Kmean,5
+Mauritania,MRT,2015,Kmean,4
+Mauritius,MUS,2015,Kmean,1
+Mexico,MEX,2015,Kmean,2
+Moldova,MDA,2015,Kmean,2
+Mongolia,MNG,2015,Kmean,1
+Montenegro,MNE,2015,Kmean,1
+Morocco,MAR,2015,Kmean,3
+Mozambique,MOZ,2015,Kmean,3
+Myanmar,MMR,2015,Kmean,4
+Namibia,NAM,2015,Kmean,1
+Nepal,NPL,2015,Kmean,3
+Netherlands,NLD,2015,Kmean,5
+New Zealand,NZL,2015,Kmean,5
+Nicaragua,NIC,2015,Kmean,2
+Niger,NER,2015,Kmean,4
+Nigeria,NGA,2015,Kmean,3
+Norway,NOR,2015,Kmean,5
+Pakistan,PAK,2015,Kmean,3
+Panama,PAN,2015,Kmean,2
+Paraguay,PRY,2015,Kmean,1
+Peru,PER,2015,Kmean,2
+Philippines,PHL,2015,Kmean,1
+Poland,POL,2015,Kmean,2
+Portugal,PRT,2015,Kmean,1
+Qatar,QAT,2015,Kmean,5
+Romania,ROU,2015,Kmean,2
+Russia,RUS,2015,Kmean,2
+Rwanda,RWA,2015,Kmean,4
+Saudi Arabia,SAU,2015,Kmean,2
+Senegal,SEN,2015,Kmean,3
+Serbia,SRB,2015,Kmean,1
+Sierra Leone,SLE,2015,Kmean,3
+Singapore,SGP,2015,Kmean,5
+Slovakia,SVK,2015,Kmean,2
+Slovenia,SVN,2015,Kmean,1
+Somalia,SOM,2015,Kmean,3
+South Africa,ZAF,2015,Kmean,1
+South Korea,KOR,2015,Kmean,2
+South Sudan,SSD,2015,Kmean,4
+Spain,ESP,2015,Kmean,2
+Sri Lanka,LKA,2015,Kmean,1
+Sudan,SDN,2015,Kmean,4
+Sweden,SWE,2015,Kmean,5
+Switzerland,CHE,2015,Kmean,5
+Syria,SYR,2015,Kmean,4
+Taiwan Province of China,TWN,2015,Kmean,2
+Tajikistan,TJK,2015,Kmean,3
+Tanzania,TZA,2015,Kmean,4
+Thailand,THA,2015,Kmean,2
+Togo,TGO,2015,Kmean,4
+Trinidad and Tobago,TTO,2015,Kmean,2
+Tunisia,TUN,2015,Kmean,1
+Turkey,TUR,2015,Kmean,1
+Turkmenistan,TKM,2015,Kmean,2
+Uganda,UGA,2015,Kmean,4
+Ukraine,UKR,2015,Kmean,4
+United Arab Emirates,ARE,2015,Kmean,5
+United Kingdom,GBR,2015,Kmean,5
+United States,USA,2015,Kmean,5
+Uruguay,URY,2015,Kmean,2
+Uzbekistan,UZB,2015,Kmean,2
+Venezuela,VEN,2015,Kmean,1
+Vietnam,VNM,2015,Kmean,1
+Yemen,YEM,2015,Kmean,4
+Zambia,ZMB,2015,Kmean,3
+Zimbabwe,ZWE,2015,Kmean,4
+Afghanistan,AFG,2016,Kmean,2
+Albania,ALB,2016,Kmean,5
+Algeria,DZA,2016,Kmean,1
+Angola,AGO,2016,Kmean,2
+Argentina,ARG,2016,Kmean,4
+Armenia,ARM,2016,Kmean,5
+Australia,AUS,2016,Kmean,4
+Austria,AUT,2016,Kmean,4
+Azerbaijan,AZE,2016,Kmean,5
+Bahrain,BHR,2016,Kmean,3
+Bangladesh,BGD,2016,Kmean,5
+Belarus,BLR,2016,Kmean,1
+Belgium,BEL,2016,Kmean,4
+Belize,BLZ,2016,Kmean,1
+Benin,BEN,2016,Kmean,2
+Bhutan,BTN,2016,Kmean,5
+Bolivia,BOL,2016,Kmean,1
+Bosnia and Herzegovina,BIH,2016,Kmean,5
+Botswana,BWA,2016,Kmean,2
+Brazil,BRA,2016,Kmean,4
+Bulgaria,BGR,2016,Kmean,2
+Burkina Faso,BFA,2016,Kmean,2
+Burundi,BDI,2016,Kmean,2
+Cambodia,KHM,2016,Kmean,2
+Cameroon,CMR,2016,Kmean,5
+Canada,CAN,2016,Kmean,4
+Chad,TCD,2016,Kmean,2
+Chile,CHL,2016,Kmean,4
+China,CHN,2016,Kmean,5
+Colombia,COL,2016,Kmean,4
+Comoros,COM,2016,Kmean,2
+Congo (Brazzaville),COD,2016,Kmean,2
+Congo (Kinshasa),COG,2016,Kmean,2
+Costa Rica,CRI,2016,Kmean,4
+Croatia,HRV,2016,Kmean,1
+Cyprus,CYP,2016,Kmean,1
+Czech Republic,CZE,2016,Kmean,4
+Denmark,DNK,2016,Kmean,4
+Dominican Republic,DOM,2016,Kmean,5
+Ecuador,ECU,2016,Kmean,1
+Egypt,EGY,2016,Kmean,5
+El Salvador,SLV,2016,Kmean,1
+Estonia,EST,2016,Kmean,1
+Ethiopia,ETH,2016,Kmean,5
+Finland,FIN,2016,Kmean,4
+France,FRA,2016,Kmean,3
+Gabon,GAB,2016,Kmean,2
+Georgia,GEO,2016,Kmean,2
+Germany,DEU,2016,Kmean,4
+Ghana,GHA,2016,Kmean,2
+Greece,GRC,2016,Kmean,5
+Guatemala,GTM,2016,Kmean,1
+Guinea,GIN,2016,Kmean,2
+Haiti,HTI,2016,Kmean,2
+Honduras,HND,2016,Kmean,5
+Hong Kong,HKG,2016,Kmean,3
+Hungary,HUN,2016,Kmean,5
+Iceland,ISL,2016,Kmean,4
+India,IND,2016,Kmean,5
+Indonesia,IDN,2016,Kmean,5
+Iran,IRN,2016,Kmean,5
+Iraq,IRQ,2016,Kmean,5
+Ireland,IRL,2016,Kmean,3
+Israel,ISR,2016,Kmean,4
+Italy,ITA,2016,Kmean,1
+Ivory Coast,NA,2016,Kmean,2
+Jamaica,JAM,2016,Kmean,1
+Japan,JPN,2016,Kmean,3
+Jordan,JOR,2016,Kmean,5
+Kazakhstan,KAZ,2016,Kmean,1
+Kenya,KEN,2016,Kmean,2
+Kosovo,KSV,2016,Kmean,1
+Kuwait,KWT,2016,Kmean,3
+Kyrgyzstan,KGZ,2016,Kmean,5
+Laos,LAO,2016,Kmean,5
+Latvia,LVA,2016,Kmean,1
+Lebanon,LBN,2016,Kmean,5
+Liberia,LBR,2016,Kmean,2
+Libya,LBY,2016,Kmean,1
+Lithuania,LTU,2016,Kmean,1
+Luxembourg,LUX,2016,Kmean,3
+Macedonia,MKD,2016,Kmean,5
+Madagascar,MDG,2016,Kmean,2
+Malawi,MWI,2016,Kmean,2
+Malaysia,MYS,2016,Kmean,1
+Mali,MLI,2016,Kmean,2
+Malta,MLT,2016,Kmean,3
+Mauritania,MRT,2016,Kmean,2
+Mauritius,MUS,2016,Kmean,1
+Mexico,MEX,2016,Kmean,4
+Moldova,MDA,2016,Kmean,1
+Mongolia,MNG,2016,Kmean,5
+Montenegro,MNE,2016,Kmean,5
+Morocco,MAR,2016,Kmean,5
+Myanmar,MMR,2016,Kmean,2
+Namibia,NAM,2016,Kmean,5
+Nepal,NPL,2016,Kmean,5
+Netherlands,NLD,2016,Kmean,4
+New Zealand,NZL,2016,Kmean,4
+Nicaragua,NIC,2016,Kmean,1
+Niger,NER,2016,Kmean,2
+Nigeria,NGA,2016,Kmean,5
+Norway,NOR,2016,Kmean,4
+Pakistan,PAK,2016,Kmean,5
+Panama,PAN,2016,Kmean,4
+Paraguay,PRY,2016,Kmean,1
+Peru,PER,2016,Kmean,1
+Philippines,PHL,2016,Kmean,5
+Poland,POL,2016,Kmean,1
+Portugal,PRT,2016,Kmean,5
+Puerto Rico,PRI,2016,Kmean,4
+Qatar,QAT,2016,Kmean,3
+Romania,ROU,2016,Kmean,1
+Russia,RUS,2016,Kmean,1
+Rwanda,RWA,2016,Kmean,2
+Saudi Arabia,SAU,2016,Kmean,3
+Senegal,SEN,2016,Kmean,2
+Serbia,SRB,2016,Kmean,5
+Sierra Leone,SLE,2016,Kmean,5
+Singapore,SGP,2016,Kmean,3
+Slovakia,SVK,2016,Kmean,1
+Slovenia,SVN,2016,Kmean,3
+Somalia,SOM,2016,Kmean,1
+Somaliland Region,NA,2016,Kmean,5
+South Africa,ZAF,2016,Kmean,5
+South Korea,KOR,2016,Kmean,1
+South Sudan,SSD,2016,Kmean,2
+Spain,ESP,2016,Kmean,3
+Sri Lanka,LKA,2016,Kmean,2
+Sudan,SDN,2016,Kmean,2
+Suriname,SUR,2016,Kmean,1
+Sweden,SWE,2016,Kmean,4
+Switzerland,CHE,2016,Kmean,4
+Syria,SYR,2016,Kmean,2
+Taiwan,TWN,2016,Kmean,3
+Tajikistan,TJK,2016,Kmean,5
+Tanzania,TZA,2016,Kmean,2
+Thailand,THA,2016,Kmean,3
+Togo,TGO,2016,Kmean,2
+Trinidad and Tobago,TTO,2016,Kmean,1
+Tunisia,TUN,2016,Kmean,5
+Turkey,TUR,2016,Kmean,1
+Turkmenistan,TKM,2016,Kmean,1
+Uganda,UGA,2016,Kmean,2
+Ukraine,UKR,2016,Kmean,2
+United Arab Emirates,ARE,2016,Kmean,3
+United Kingdom,GBR,2016,Kmean,3
+United States,USA,2016,Kmean,4
+Uruguay,URY,2016,Kmean,4
+Uzbekistan,UZB,2016,Kmean,1
+Venezuela,VEN,2016,Kmean,1
+Vietnam,VNM,2016,Kmean,5
+Yemen,YEM,2016,Kmean,2
+Zambia,ZMB,2016,Kmean,5
+Zimbabwe,ZWE,2016,Kmean,2
+Afghanistan,AFG,2017,Kmean,2
+Albania,ALB,2017,Kmean,3
+Algeria,DZA,2017,Kmean,4
+Angola,AGO,2017,Kmean,2
+Argentina,ARG,2017,Kmean,5
+Armenia,ARM,2017,Kmean,3
+Australia,AUS,2017,Kmean,5
+Austria,AUT,2017,Kmean,5
+Azerbaijan,AZE,2017,Kmean,4
+Bahrain,BHR,2017,Kmean,4
+Bangladesh,BGD,2017,Kmean,3
+Belarus,BLR,2017,Kmean,4
+Belgium,BEL,2017,Kmean,5
+Belize,BLZ,2017,Kmean,4
+Benin,BEN,2017,Kmean,2
+Bhutan,BTN,2017,Kmean,3
+Bolivia,BOL,2017,Kmean,4
+Bosnia and Herzegovina,BIH,2017,Kmean,4
+Botswana,BWA,2017,Kmean,1
+Brazil,BRA,2017,Kmean,5
+Bulgaria,BGR,2017,Kmean,1
+Burkina Faso,BFA,2017,Kmean,2
+Burundi,BDI,2017,Kmean,2
+Cambodia,KHM,2017,Kmean,1
+Cameroon,CMR,2017,Kmean,3
+Canada,CAN,2017,Kmean,5
+Central African Republic,CAF,2017,Kmean,2
+Chad,TCD,2017,Kmean,2
+Chile,CHL,2017,Kmean,5
+China,CHN,2017,Kmean,4
+Colombia,COL,2017,Kmean,5
+Congo (Brazzaville),COD,2017,Kmean,3
+Congo (Kinshasa),COG,2017,Kmean,3
+Costa Rica,CRI,2017,Kmean,5
+Croatia,HRV,2017,Kmean,4
+Cyprus,CYP,2017,Kmean,4
+Czech Republic,CZE,2017,Kmean,5
+Denmark,DNK,2017,Kmean,5
+Dominican Republic,DOM,2017,Kmean,4
+Ecuador,ECU,2017,Kmean,4
+Egypt,EGY,2017,Kmean,3
+El Salvador,SLV,2017,Kmean,4
+Estonia,EST,2017,Kmean,4
+Ethiopia,ETH,2017,Kmean,3
+Finland,FIN,2017,Kmean,5
+France,FRA,2017,Kmean,5
+Gabon,GAB,2017,Kmean,3
+Georgia,GEO,2017,Kmean,3
+Germany,DEU,2017,Kmean,5
+Ghana,GHA,2017,Kmean,2
+Greece,GRC,2017,Kmean,4
+Guatemala,GTM,2017,Kmean,5
+Guinea,GIN,2017,Kmean,2
+Haiti,HTI,2017,Kmean,2
+Honduras,HND,2017,Kmean,3
+Hong Kong,HKG,2017,Kmean,4
+Hungary,HUN,2017,Kmean,4
+Iceland,ISL,2017,Kmean,5
+India,IND,2017,Kmean,3
+Indonesia,IDN,2017,Kmean,4
+Iran,IRN,2017,Kmean,3
+Iraq,IRQ,2017,Kmean,3
+Ireland,IRL,2017,Kmean,5
+Israel,ISR,2017,Kmean,5
+Italy,ITA,2017,Kmean,4
+Ivory Coast,NA,2017,Kmean,3
+Jamaica,JAM,2017,Kmean,4
+Japan,JPN,2017,Kmean,4
+Jordan,JOR,2017,Kmean,4
+Kazakhstan,KAZ,2017,Kmean,4
+Kenya,KEN,2017,Kmean,3
+Kosovo,KSV,2017,Kmean,4
+Kuwait,KWT,2017,Kmean,4
+Kyrgyzstan,KGZ,2017,Kmean,3
+Latvia,LVA,2017,Kmean,4
+Lebanon,LBN,2017,Kmean,4
+Lesotho,LSO,2017,Kmean,2
+Liberia,LBR,2017,Kmean,2
+Libya,LBY,2017,Kmean,4
+Lithuania,LTU,2017,Kmean,4
+Luxembourg,LUX,2017,Kmean,5
+Macedonia,MKD,2017,Kmean,4
+Madagascar,MDG,2017,Kmean,2
+Malawi,MWI,2017,Kmean,2
+Malaysia,MYS,2017,Kmean,4
+Mali,MLI,2017,Kmean,3
+Malta,MLT,2017,Kmean,5
+Mauritania,MRT,2017,Kmean,3
+Mauritius,MUS,2017,Kmean,4
+Mexico,MEX,2017,Kmean,5
+Moldova,MDA,2017,Kmean,4
+Mongolia,MNG,2017,Kmean,3
+Montenegro,MNE,2017,Kmean,4
+Morocco,MAR,2017,Kmean,4
+Mozambique,MOZ,2017,Kmean,3
+Myanmar,MMR,2017,Kmean,1
+Namibia,NAM,2017,Kmean,3
+Nepal,NPL,2017,Kmean,3
+Netherlands,NLD,2017,Kmean,5
+New Zealand,NZL,2017,Kmean,5
+Nicaragua,NIC,2017,Kmean,4
+Niger,NER,2017,Kmean,2
+Nigeria,NGA,2017,Kmean,3
+Norway,NOR,2017,Kmean,5
+Pakistan,PAK,2017,Kmean,3
+Panama,PAN,2017,Kmean,5
+Paraguay,PRY,2017,Kmean,4
+Peru,PER,2017,Kmean,4
+Philippines,PHL,2017,Kmean,4
+Poland,POL,2017,Kmean,4
+Portugal,PRT,2017,Kmean,4
+Qatar,QAT,2017,Kmean,5
+Romania,ROU,2017,Kmean,4
+Russia,RUS,2017,Kmean,4
+Rwanda,RWA,2017,Kmean,1
+Saudi Arabia,SAU,2017,Kmean,5
+Senegal,SEN,2017,Kmean,3
+Serbia,SRB,2017,Kmean,4
+Sierra Leone,SLE,2017,Kmean,3
+Singapore,SGP,2017,Kmean,5
+Slovakia,SVK,2017,Kmean,4
+Slovenia,SVN,2017,Kmean,4
+Somalia,SOM,2017,Kmean,3
+South Africa,ZAF,2017,Kmean,3
+South Korea,KOR,2017,Kmean,4
+South Sudan,SSD,2017,Kmean,2
+Spain,ESP,2017,Kmean,5
+Sri Lanka,LKA,2017,Kmean,1
+Sudan,SDN,2017,Kmean,3
+Sweden,SWE,2017,Kmean,5
+Switzerland,CHE,2017,Kmean,5
+Syria,SYR,2017,Kmean,2
+Taiwan Province of China,TWN,2017,Kmean,5
+Tajikistan,TJK,2017,Kmean,3
+Tanzania,TZA,2017,Kmean,1
+Thailand,THA,2017,Kmean,5
+Togo,TGO,2017,Kmean,2
+Trinidad and Tobago,TTO,2017,Kmean,4
+Tunisia,TUN,2017,Kmean,3
+Turkey,TUR,2017,Kmean,4
+Turkmenistan,TKM,2017,Kmean,4
+Uganda,UGA,2017,Kmean,2
+Ukraine,UKR,2017,Kmean,1
+United Arab Emirates,ARE,2017,Kmean,5
+United Kingdom,GBR,2017,Kmean,5
+United States,USA,2017,Kmean,5
+Uruguay,URY,2017,Kmean,5
+Uzbekistan,UZB,2017,Kmean,4
+Venezuela,VEN,2017,Kmean,4
+Vietnam,VNM,2017,Kmean,3
+Yemen,YEM,2017,Kmean,2
+Zambia,ZMB,2017,Kmean,3
+Zimbabwe,ZWE,2017,Kmean,2
+Afghanistan,AFG,2015,Hieratical,1
+Albania,ALB,2015,Hieratical,2
+Algeria,DZA,2015,Hieratical,3
+Angola,AGO,2015,Hieratical,1
+Argentina,ARG,2015,Hieratical,4
+Armenia,ARM,2015,Hieratical,2
+Australia,AUS,2015,Hieratical,4
+Austria,AUT,2015,Hieratical,4
+Azerbaijan,AZE,2015,Hieratical,5
+Bahrain,BHR,2015,Hieratical,5
+Bangladesh,BGD,2015,Hieratical,1
+Belarus,BLR,2015,Hieratical,5
+Belgium,BEL,2015,Hieratical,4
+Belize,BLZ,2015,Hieratical,3
+Benin,BEN,2015,Hieratical,1
+Bhutan,BTN,2015,Hieratical,2
+Bolivia,BOL,2015,Hieratical,3
+Bosnia and Herzegovina,BIH,2015,Hieratical,5
+Botswana,BWA,2015,Hieratical,2
+Brazil,BRA,2015,Hieratical,4
+Bulgaria,BGR,2015,Hieratical,2
+Burkina Faso,BFA,2015,Hieratical,1
+Burundi,BDI,2015,Hieratical,1
+Cambodia,KHM,2015,Hieratical,2
+Cameroon,CMR,2015,Hieratical,1
+Canada,CAN,2015,Hieratical,4
+Central African Republic,CAF,2015,Hieratical,1
+Chad,TCD,2015,Hieratical,1
+Chile,CHL,2015,Hieratical,4
+China,CHN,2015,Hieratical,5
+Colombia,COL,2015,Hieratical,4
+Congo (Brazzaville),COD,2015,Hieratical,2
+Congo (Kinshasa),COG,2015,Hieratical,1
+Costa Rica,CRI,2015,Hieratical,4
+Croatia,HRV,2015,Hieratical,5
+Cyprus,CYP,2015,Hieratical,5
+Czech Republic,CZE,2015,Hieratical,4
+Denmark,DNK,2015,Hieratical,4
+Dominican Republic,DOM,2015,Hieratical,2
+Ecuador,ECU,2015,Hieratical,5
+Egypt,EGY,2015,Hieratical,2
+El Salvador,SLV,2015,Hieratical,3
+Estonia,EST,2015,Hieratical,5
+Ethiopia,ETH,2015,Hieratical,1
+Finland,FIN,2015,Hieratical,4
+France,FRA,2015,Hieratical,5
+Gabon,GAB,2015,Hieratical,2
+Georgia,GEO,2015,Hieratical,2
+Germany,DEU,2015,Hieratical,4
+Ghana,GHA,2015,Hieratical,2
+Greece,GRC,2015,Hieratical,5
+Guatemala,GTM,2015,Hieratical,4
+Guinea,GIN,2015,Hieratical,1
+Haiti,HTI,2015,Hieratical,1
+Honduras,HND,2015,Hieratical,3
+Hong Kong,HKG,2015,Hieratical,5
+Hungary,HUN,2015,Hieratical,5
+Iceland,ISL,2015,Hieratical,4
+India,IND,2015,Hieratical,2
+Indonesia,IDN,2015,Hieratical,2
+Iran,IRN,2015,Hieratical,2
+Iraq,IRQ,2015,Hieratical,2
+Ireland,IRL,2015,Hieratical,5
+Israel,ISR,2015,Hieratical,4
+Italy,ITA,2015,Hieratical,5
+Ivory Coast,NA,2015,Hieratical,1
+Jamaica,JAM,2015,Hieratical,5
+Japan,JPN,2015,Hieratical,5
+Jordan,JOR,2015,Hieratical,5
+Kazakhstan,KAZ,2015,Hieratical,5
+Kenya,KEN,2015,Hieratical,1
+Kosovo,KSV,2015,Hieratical,5
+Kuwait,KWT,2015,Hieratical,5
+Kyrgyzstan,KGZ,2015,Hieratical,2
+Latvia,LVA,2015,Hieratical,5
+Lebanon,LBN,2015,Hieratical,5
+Lesotho,LSO,2015,Hieratical,1
+Liberia,LBR,2015,Hieratical,1
+Libya,LBY,2015,Hieratical,5
+Lithuania,LTU,2015,Hieratical,5
+Luxembourg,LUX,2015,Hieratical,5
+Macedonia,MKD,2015,Hieratical,5
+Madagascar,MDG,2015,Hieratical,1
+Malawi,MWI,2015,Hieratical,1
+Malaysia,MYS,2015,Hieratical,5
+Mali,MLI,2015,Hieratical,1
+Malta,MLT,2015,Hieratical,5
+Mauritania,MRT,2015,Hieratical,1
+Mauritius,MUS,2015,Hieratical,5
+Mexico,MEX,2015,Hieratical,4
+Moldova,MDA,2015,Hieratical,3
+Mongolia,MNG,2015,Hieratical,2
+Montenegro,MNE,2015,Hieratical,5
+Morocco,MAR,2015,Hieratical,3
+Mozambique,MOZ,2015,Hieratical,1
+Myanmar,MMR,2015,Hieratical,2
+Namibia,NAM,2015,Hieratical,2
+Nepal,NPL,2015,Hieratical,3
+Netherlands,NLD,2015,Hieratical,4
+New Zealand,NZL,2015,Hieratical,4
+Nicaragua,NIC,2015,Hieratical,3
+Niger,NER,2015,Hieratical,1
+Nigeria,NGA,2015,Hieratical,3
+Norway,NOR,2015,Hieratical,4
+Pakistan,PAK,2015,Hieratical,3
+Panama,PAN,2015,Hieratical,5
+Paraguay,PRY,2015,Hieratical,5
+Peru,PER,2015,Hieratical,5
+Philippines,PHL,2015,Hieratical,3
+Poland,POL,2015,Hieratical,5
+Portugal,PRT,2015,Hieratical,2
+Qatar,QAT,2015,Hieratical,5
+Romania,ROU,2015,Hieratical,5
+Russia,RUS,2015,Hieratical,5
+Rwanda,RWA,2015,Hieratical,2
+Saudi Arabia,SAU,2015,Hieratical,5
+Senegal,SEN,2015,Hieratical,1
+Serbia,SRB,2015,Hieratical,5
+Sierra Leone,SLE,2015,Hieratical,1
+Singapore,SGP,2015,Hieratical,5
+Slovakia,SVK,2015,Hieratical,5
+Slovenia,SVN,2015,Hieratical,5
+Somalia,SOM,2015,Hieratical,3
+South Africa,ZAF,2015,Hieratical,2
+South Korea,KOR,2015,Hieratical,5
+South Sudan,SSD,2015,Hieratical,1
+Spain,ESP,2015,Hieratical,5
+Sri Lanka,LKA,2015,Hieratical,2
+Sudan,SDN,2015,Hieratical,1
+Sweden,SWE,2015,Hieratical,4
+Switzerland,CHE,2015,Hieratical,4
+Syria,SYR,2015,Hieratical,2
+Taiwan Province of China,TWN,2015,Hieratical,5
+Tajikistan,TJK,2015,Hieratical,3
+Tanzania,TZA,2015,Hieratical,2
+Thailand,THA,2015,Hieratical,5
+Togo,TGO,2015,Hieratical,1
+Trinidad and Tobago,TTO,2015,Hieratical,5
+Tunisia,TUN,2015,Hieratical,2
+Turkey,TUR,2015,Hieratical,5
+Turkmenistan,TKM,2015,Hieratical,5
+Uganda,UGA,2015,Hieratical,1
+Ukraine,UKR,2015,Hieratical,2
+United Arab Emirates,ARE,2015,Hieratical,5
+United Kingdom,GBR,2015,Hieratical,5
+United States,USA,2015,Hieratical,4
+Uruguay,URY,2015,Hieratical,5
+Uzbekistan,UZB,2015,Hieratical,5
+Venezuela,VEN,2015,Hieratical,5
+Vietnam,VNM,2015,Hieratical,2
+Yemen,YEM,2015,Hieratical,1
+Zambia,ZMB,2015,Hieratical,1
+Zimbabwe,ZWE,2015,Hieratical,1
+Afghanistan,AFG,2016,Hieratical,1
+Albania,ALB,2016,Hieratical,2
+Algeria,DZA,2016,Hieratical,3
+Angola,AGO,2016,Hieratical,4
+Argentina,ARG,2016,Hieratical,3
+Armenia,ARM,2016,Hieratical,2
+Australia,AUS,2016,Hieratical,3
+Austria,AUT,2016,Hieratical,3
+Azerbaijan,AZE,2016,Hieratical,3
+Bahrain,BHR,2016,Hieratical,3
+Bangladesh,BGD,2016,Hieratical,5
+Belarus,BLR,2016,Hieratical,3
+Belgium,BEL,2016,Hieratical,3
+Belize,BLZ,2016,Hieratical,5
+Benin,BEN,2016,Hieratical,1
+Bhutan,BTN,2016,Hieratical,2
+Bolivia,BOL,2016,Hieratical,5
+Bosnia and Herzegovina,BIH,2016,Hieratical,5
+Botswana,BWA,2016,Hieratical,4
+Brazil,BRA,2016,Hieratical,3
+Bulgaria,BGR,2016,Hieratical,4
+Burkina Faso,BFA,2016,Hieratical,4
+Burundi,BDI,2016,Hieratical,1
+Cambodia,KHM,2016,Hieratical,4
+Cameroon,CMR,2016,Hieratical,5
+Canada,CAN,2016,Hieratical,3
+Chad,TCD,2016,Hieratical,4
+Chile,CHL,2016,Hieratical,3
+China,CHN,2016,Hieratical,3
+Colombia,COL,2016,Hieratical,3
+Comoros,COM,2016,Hieratical,4
+Congo (Brazzaville),COD,2016,Hieratical,2
+Congo (Kinshasa),COG,2016,Hieratical,4
+Costa Rica,CRI,2016,Hieratical,3
+Croatia,HRV,2016,Hieratical,3
+Cyprus,CYP,2016,Hieratical,3
+Czech Republic,CZE,2016,Hieratical,3
+Denmark,DNK,2016,Hieratical,3
+Dominican Republic,DOM,2016,Hieratical,2
+Ecuador,ECU,2016,Hieratical,5
+Egypt,EGY,2016,Hieratical,2
+El Salvador,SLV,2016,Hieratical,5
+Estonia,EST,2016,Hieratical,3
+Ethiopia,ETH,2016,Hieratical,5
+Finland,FIN,2016,Hieratical,3
+France,FRA,2016,Hieratical,3
+Gabon,GAB,2016,Hieratical,4
+Georgia,GEO,2016,Hieratical,2
+Germany,DEU,2016,Hieratical,3
+Ghana,GHA,2016,Hieratical,2
+Greece,GRC,2016,Hieratical,2
+Guatemala,GTM,2016,Hieratical,3
+Guinea,GIN,2016,Hieratical,4
+Haiti,HTI,2016,Hieratical,4
+Honduras,HND,2016,Hieratical,2
+Hong Kong,HKG,2016,Hieratical,2
+Hungary,HUN,2016,Hieratical,2
+Iceland,ISL,2016,Hieratical,3
+India,IND,2016,Hieratical,2
+Indonesia,IDN,2016,Hieratical,2
+Iran,IRN,2016,Hieratical,2
+Iraq,IRQ,2016,Hieratical,2
+Ireland,IRL,2016,Hieratical,3
+Israel,ISR,2016,Hieratical,3
+Italy,ITA,2016,Hieratical,3
+Ivory Coast,NA,2016,Hieratical,4
+Jamaica,JAM,2016,Hieratical,3
+Japan,JPN,2016,Hieratical,3
+Jordan,JOR,2016,Hieratical,3
+Kazakhstan,KAZ,2016,Hieratical,3
+Kenya,KEN,2016,Hieratical,2
+Kosovo,KSV,2016,Hieratical,5
+Kuwait,KWT,2016,Hieratical,3
+Kyrgyzstan,KGZ,2016,Hieratical,2
+Laos,LAO,2016,Hieratical,2
+Latvia,LVA,2016,Hieratical,3
+Lebanon,LBN,2016,Hieratical,2
+Liberia,LBR,2016,Hieratical,4
+Libya,LBY,2016,Hieratical,3
+Lithuania,LTU,2016,Hieratical,3
+Luxembourg,LUX,2016,Hieratical,3
+Macedonia,MKD,2016,Hieratical,2
+Madagascar,MDG,2016,Hieratical,4
+Malawi,MWI,2016,Hieratical,4
+Malaysia,MYS,2016,Hieratical,3
+Mali,MLI,2016,Hieratical,4
+Malta,MLT,2016,Hieratical,3
+Mauritania,MRT,2016,Hieratical,2
+Mauritius,MUS,2016,Hieratical,3
+Mexico,MEX,2016,Hieratical,3
+Moldova,MDA,2016,Hieratical,5
+Mongolia,MNG,2016,Hieratical,2
+Montenegro,MNE,2016,Hieratical,2
+Morocco,MAR,2016,Hieratical,5
+Myanmar,MMR,2016,Hieratical,2
+Namibia,NAM,2016,Hieratical,2
+Nepal,NPL,2016,Hieratical,2
+Netherlands,NLD,2016,Hieratical,3
+New Zealand,NZL,2016,Hieratical,3
+Nicaragua,NIC,2016,Hieratical,5
+Niger,NER,2016,Hieratical,4
+Nigeria,NGA,2016,Hieratical,5
+Norway,NOR,2016,Hieratical,3
+Pakistan,PAK,2016,Hieratical,5
+Panama,PAN,2016,Hieratical,3
+Paraguay,PRY,2016,Hieratical,3
+Peru,PER,2016,Hieratical,5
+Philippines,PHL,2016,Hieratical,2
+Poland,POL,2016,Hieratical,3
+Portugal,PRT,2016,Hieratical,2
+Puerto Rico,PRI,2016,Hieratical,3
+Qatar,QAT,2016,Hieratical,3
+Romania,ROU,2016,Hieratical,3
+Russia,RUS,2016,Hieratical,3
+Rwanda,RWA,2016,Hieratical,4
+Saudi Arabia,SAU,2016,Hieratical,3
+Senegal,SEN,2016,Hieratical,2
+Serbia,SRB,2016,Hieratical,2
+Sierra Leone,SLE,2016,Hieratical,5
+Singapore,SGP,2016,Hieratical,3
+Slovakia,SVK,2016,Hieratical,3
+Slovenia,SVN,2016,Hieratical,3
+Somalia,SOM,2016,Hieratical,5
+Somaliland Region,NA,2016,Hieratical,5
+South Africa,ZAF,2016,Hieratical,2
+South Korea,KOR,2016,Hieratical,3
+South Sudan,SSD,2016,Hieratical,4
+Spain,ESP,2016,Hieratical,3
+Sri Lanka,LKA,2016,Hieratical,4
+Sudan,SDN,2016,Hieratical,2
+Suriname,SUR,2016,Hieratical,3
+Sweden,SWE,2016,Hieratical,3
+Switzerland,CHE,2016,Hieratical,3
+Syria,SYR,2016,Hieratical,1
+Taiwan,TWN,2016,Hieratical,3
+Tajikistan,TJK,2016,Hieratical,2
+Tanzania,TZA,2016,Hieratical,4
+Thailand,THA,2016,Hieratical,3
+Togo,TGO,2016,Hieratical,1
+Trinidad and Tobago,TTO,2016,Hieratical,3
+Tunisia,TUN,2016,Hieratical,5
+Turkey,TUR,2016,Hieratical,3
+Turkmenistan,TKM,2016,Hieratical,3
+Uganda,UGA,2016,Hieratical,4
+Ukraine,UKR,2016,Hieratical,4
+United Arab Emirates,ARE,2016,Hieratical,3
+United Kingdom,GBR,2016,Hieratical,3
+United States,USA,2016,Hieratical,3
+Uruguay,URY,2016,Hieratical,3
+Uzbekistan,UZB,2016,Hieratical,3
+Venezuela,VEN,2016,Hieratical,3
+Vietnam,VNM,2016,Hieratical,2
+Yemen,YEM,2016,Hieratical,4
+Zambia,ZMB,2016,Hieratical,5
+Zimbabwe,ZWE,2016,Hieratical,4
+Afghanistan,AFG,2017,Hieratical,1
+Albania,ALB,2017,Hieratical,2
+Algeria,DZA,2017,Hieratical,3
+Angola,AGO,2017,Hieratical,1
+Argentina,ARG,2017,Hieratical,4
+Armenia,ARM,2017,Hieratical,2
+Australia,AUS,2017,Hieratical,4
+Austria,AUT,2017,Hieratical,4
+Azerbaijan,AZE,2017,Hieratical,5
+Bahrain,BHR,2017,Hieratical,5
+Bangladesh,BGD,2017,Hieratical,1
+Belarus,BLR,2017,Hieratical,5
+Belgium,BEL,2017,Hieratical,4
+Belize,BLZ,2017,Hieratical,3
+Benin,BEN,2017,Hieratical,1
+Bhutan,BTN,2017,Hieratical,2
+Bolivia,BOL,2017,Hieratical,3
+Bosnia and Herzegovina,BIH,2017,Hieratical,5
+Botswana,BWA,2017,Hieratical,2
+Brazil,BRA,2017,Hieratical,4
+Bulgaria,BGR,2017,Hieratical,2
+Burkina Faso,BFA,2017,Hieratical,1
+Burundi,BDI,2017,Hieratical,1
+Cambodia,KHM,2017,Hieratical,2
+Cameroon,CMR,2017,Hieratical,1
+Canada,CAN,2017,Hieratical,4
+Central African Republic,CAF,2017,Hieratical,1
+Chad,TCD,2017,Hieratical,1
+Chile,CHL,2017,Hieratical,4
+China,CHN,2017,Hieratical,5
+Colombia,COL,2017,Hieratical,4
+Congo (Brazzaville),COD,2017,Hieratical,2
+Congo (Kinshasa),COG,2017,Hieratical,1
+Costa Rica,CRI,2017,Hieratical,4
+Croatia,HRV,2017,Hieratical,5
+Cyprus,CYP,2017,Hieratical,5
+Czech Republic,CZE,2017,Hieratical,4
+Denmark,DNK,2017,Hieratical,4
+Dominican Republic,DOM,2017,Hieratical,2
+Ecuador,ECU,2017,Hieratical,5
+Egypt,EGY,2017,Hieratical,2
+El Salvador,SLV,2017,Hieratical,3
+Estonia,EST,2017,Hieratical,5
+Ethiopia,ETH,2017,Hieratical,1
+Finland,FIN,2017,Hieratical,4
+France,FRA,2017,Hieratical,5
+Gabon,GAB,2017,Hieratical,2
+Georgia,GEO,2017,Hieratical,2
+Germany,DEU,2017,Hieratical,4
+Ghana,GHA,2017,Hieratical,2
+Greece,GRC,2017,Hieratical,5
+Guatemala,GTM,2017,Hieratical,4
+Guinea,GIN,2017,Hieratical,1
+Haiti,HTI,2017,Hieratical,1
+Honduras,HND,2017,Hieratical,3
+Hong Kong,HKG,2017,Hieratical,5
+Hungary,HUN,2017,Hieratical,5
+Iceland,ISL,2017,Hieratical,4
+India,IND,2017,Hieratical,2
+Indonesia,IDN,2017,Hieratical,2
+Iran,IRN,2017,Hieratical,2
+Iraq,IRQ,2017,Hieratical,2
+Ireland,IRL,2017,Hieratical,5
+Israel,ISR,2017,Hieratical,4
+Italy,ITA,2017,Hieratical,5
+Ivory Coast,NA,2017,Hieratical,1
+Jamaica,JAM,2017,Hieratical,5
+Japan,JPN,2017,Hieratical,5
+Jordan,JOR,2017,Hieratical,5
+Kazakhstan,KAZ,2017,Hieratical,5
+Kenya,KEN,2017,Hieratical,1
+Kosovo,KSV,2017,Hieratical,5
+Kuwait,KWT,2017,Hieratical,5
+Kyrgyzstan,KGZ,2017,Hieratical,2
+Latvia,LVA,2017,Hieratical,5
+Lebanon,LBN,2017,Hieratical,5
+Lesotho,LSO,2017,Hieratical,1
+Liberia,LBR,2017,Hieratical,1
+Libya,LBY,2017,Hieratical,5
+Lithuania,LTU,2017,Hieratical,5
+Luxembourg,LUX,2017,Hieratical,5
+Macedonia,MKD,2017,Hieratical,5
+Madagascar,MDG,2017,Hieratical,1
+Malawi,MWI,2017,Hieratical,1
+Malaysia,MYS,2017,Hieratical,5
+Mali,MLI,2017,Hieratical,1
+Malta,MLT,2017,Hieratical,5
+Mauritania,MRT,2017,Hieratical,1
+Mauritius,MUS,2017,Hieratical,5
+Mexico,MEX,2017,Hieratical,4
+Moldova,MDA,2017,Hieratical,3
+Mongolia,MNG,2017,Hieratical,2
+Montenegro,MNE,2017,Hieratical,5
+Morocco,MAR,2017,Hieratical,3
+Mozambique,MOZ,2017,Hieratical,1
+Myanmar,MMR,2017,Hieratical,2
+Namibia,NAM,2017,Hieratical,2
+Nepal,NPL,2017,Hieratical,3
+Netherlands,NLD,2017,Hieratical,4
+New Zealand,NZL,2017,Hieratical,4
+Nicaragua,NIC,2017,Hieratical,3
+Niger,NER,2017,Hieratical,1
+Nigeria,NGA,2017,Hieratical,3
+Norway,NOR,2017,Hieratical,4
+Pakistan,PAK,2017,Hieratical,3
+Panama,PAN,2017,Hieratical,5
+Paraguay,PRY,2017,Hieratical,5
+Peru,PER,2017,Hieratical,5
+Philippines,PHL,2017,Hieratical,3
+Poland,POL,2017,Hieratical,5
+Portugal,PRT,2017,Hieratical,2
+Qatar,QAT,2017,Hieratical,5
+Romania,ROU,2017,Hieratical,5
+Russia,RUS,2017,Hieratical,5
+Rwanda,RWA,2017,Hieratical,2
+Saudi Arabia,SAU,2017,Hieratical,5
+Senegal,SEN,2017,Hieratical,1
+Serbia,SRB,2017,Hieratical,5
+Sierra Leone,SLE,2017,Hieratical,1
+Singapore,SGP,2017,Hieratical,5
+Slovakia,SVK,2017,Hieratical,5
+Slovenia,SVN,2017,Hieratical,5
+Somalia,SOM,2017,Hieratical,3
+South Africa,ZAF,2017,Hieratical,2
+South Korea,KOR,2017,Hieratical,5
+South Sudan,SSD,2017,Hieratical,1
+Spain,ESP,2017,Hieratical,5
+Sri Lanka,LKA,2017,Hieratical,2
+Sudan,SDN,2017,Hieratical,1
+Sweden,SWE,2017,Hieratical,4
+Switzerland,CHE,2017,Hieratical,4
+Syria,SYR,2017,Hieratical,2
+Taiwan Province of China,TWN,2017,Hieratical,5
+Tajikistan,TJK,2017,Hieratical,3
+Tanzania,TZA,2017,Hieratical,2
+Thailand,THA,2017,Hieratical,5
+Togo,TGO,2017,Hieratical,1
+Trinidad and Tobago,TTO,2017,Hieratical,5
+Tunisia,TUN,2017,Hieratical,2
+Turkey,TUR,2017,Hieratical,5
+Turkmenistan,TKM,2017,Hieratical,5
+Uganda,UGA,2017,Hieratical,1
+Ukraine,UKR,2017,Hieratical,2
+United Arab Emirates,ARE,2017,Hieratical,5
+United Kingdom,GBR,2017,Hieratical,5
+United States,USA,2017,Hieratical,4
+Uruguay,URY,2017,Hieratical,5
+Uzbekistan,UZB,2017,Hieratical,5
+Venezuela,VEN,2017,Hieratical,5
+Vietnam,VNM,2017,Hieratical,2
+Yemen,YEM,2017,Hieratical,1
+Zambia,ZMB,2017,Hieratical,1
+Zimbabwe,ZWE,2017,Hieratical,1
